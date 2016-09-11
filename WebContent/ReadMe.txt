@@ -1,4 +1,4 @@
-axis 1 server client 
+
 Axis 1 is an jax-rpc implemetation provided by Apache
 
 how to create Webservice using Axis1 Amplementation of jax-rpc provided by Apache foundation, without Eclipse
