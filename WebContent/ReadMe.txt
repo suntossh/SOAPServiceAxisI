@@ -1,5 +1,5 @@
-axis 1 server client 
-Axis 1 is an jax-rpc implemetation provided by Apache
+
+Axis 1 is an jax-rpc implemetation provided by Apache foundatation
 
 how to create Webservice using Axis1 Amplementation of jax-rpc provided by Apache foundation, without Eclipse
 1  create a DWP
